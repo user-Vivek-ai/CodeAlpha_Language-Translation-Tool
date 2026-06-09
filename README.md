@@ -1,5 +1,8 @@
 # Language Translation Tool
 
+## Link
+https://user-vivek-ai.github.io/CodeAlpha_Language-Translation-Tool/
+
 ## Description
 A simple AI-powered Language Translation Tool that allows users to translate text between different languages.
 
@@ -22,5 +25,3 @@ A simple AI-powered Language Translation Tool that allows users to translate tex
 ## Author
 Vivek Akula
 
-## Link
-https://user-vivek-ai.github.io/CodeAlpha_Language-Translation-Tool/
