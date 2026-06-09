@@ -20,4 +20,7 @@ A simple AI-powered Language Translation Tool that allows users to translate tex
 2. Open index.html in any browser.
 
 ## Author
-Vivek
+Vivek Akula
+
+## Link
+https://user-vivek-ai.github.io/CodeAlpha_Language-Translation-Tool/
